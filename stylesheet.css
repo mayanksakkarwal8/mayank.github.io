@@ -1,0 +1,87 @@
+body{
+font-family: century gothic ;
+background-color: rgba(0, 128, 0, 60%);
+}
+.background_img{
+background: url(https://wallpapers-fenix.eu/full/150621/002346507.jpg); 
+background-size: cover;
+width: 1350px;
+height: 700px;
+position: absolute;
+opacity: 85%;
+}
+
+#paragraph{
+color: #fff;
+float: center;
+margin-left: 32px;
+margin-top: 30px;
+border: 3px solid #fff;
+margin-right: 1145px;
+padding: 1px 20px;
+height: 50px;
+
+}
+
+ul{
+float: right;
+margin-top: 10px;
+margin-right: 50px;
+}
+ul li{
+display: inline-block;
+}
+
+ul li a{
+color: #fff;
+padding: 5px 20px;
+transition: 0.6s  ease;
+}
+
+ul li a:hover{
+background-color: #fff;
+color: #000;
+}
+
+h1{
+color: white;
+font-family: impact;
+font-size: 80px;
+margin-left: 35px;
+margin-top: 100px;
+}
+
+.p{
+color: white;
+margin-left: 500px;
+}
+
+.p1{
+color: white;
+margin-left: 550px;
+}
+
+
+
+.img1{
+width: 400px;
+height: 300px;
+vertical-aling: middle; margin: 800px 20px;
+background: yellow;
+hover
+background-color: #fff;
+color: #000;
+}
+
+
+.img2{
+width: 400px;
+height: 300px;
+vertical-aling: middle; margin: 800px 20px;
+}
+
+.img3{
+width: 400px;
+height: 300px;
+vertical-aling: middle; margin: 800px 20px;
+}
